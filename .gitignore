@@ -57,3 +57,4 @@ web
 analysis_options.yaml
 pubspec.lock
 quizzler_updated.iml
+.gitattributes
