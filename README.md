@@ -19,8 +19,7 @@ You will see how many correct and wrong answers do you have at the end of the qu
 ### Preview:
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/118076077/211003825-e047b958-8aad-43da-9855-cccbad928823.gif" height= 500px>
-         
+<img src="https://user-images.githubusercontent.com/118076077/211003825-e047b958-8aad-43da-9855-cccbad928823.gif" height= 500px>__
 <img src="https://user-images.githubusercontent.com/118076077/211005438-6256119d-1cef-4be4-8192-ce01a8796c16.gif" height= 500px>
 </div>
 
