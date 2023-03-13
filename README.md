@@ -1,6 +1,6 @@
 # Basic True-False Quiz Application
 
-- This app is not upgraded with clean codes. You can check [MyCard App](https://github.com/batuhan-yaras/MyCard) in my repositories for see the example of writing clean codes.
+- This app is not upgraded with clean codes. You can check [MyCard App](https://github.com/batuhan-yaras/MyCard) or [Xylophone App](https://github.com/batuhan-yaras/Xylophone-flutter) in my repositories for see the example of writing clean codes.
 
 ### We used;
 
